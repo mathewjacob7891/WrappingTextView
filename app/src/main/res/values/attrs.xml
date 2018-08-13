@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WrappingTextView">
+        <attr name="wrapAroundId" format="reference" />
+        <attr name="isWrapped" format="boolean" />
+        <attr name="numberOfLines" format="integer" />
+    </declare-styleable>
+
+</resources>
